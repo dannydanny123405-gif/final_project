@@ -19,21 +19,3 @@
 ### 3. 🎒 스마트 준비물 체크리스트
 * **시즌별 필수템:** 봄/가을(외투, 무릎담요), 여름(선크림, 손선풍기) 등 계절에 맞는 준비물을 가이드합니다.
 * **날씨 연동 추천:** 비 소식이 있을 경우 '우의/우산', 자외선이 강할 경우 '모자/선글라스'를 체크리스트에 자동으로 추가해 줍니다.
-
----
-
-## 🛠 기술 스택 (Tech Stack)
-
-| 분류 | 기술 스택 |
-| :--- | :--- |
-| **Frontend** | HTML5, CSS3, JavaScript |
-| **Backend** | Node.js / Python |
-| **API** | 기상청 단기예보 조회 서비스 API |
-
----
-
-## ⚙️ 시작하기 (Getting Started)
-
-1. 저장소를 원격 복제(Clone)합니다.
-   ```bash
-   git clone [https://github.com/your-username/jamsil-baseball-guide.git](https://github.com/your-username/jamsil-baseball-guide.git)
